@@ -1,2 +1,2 @@
 # CSE-5349
-Breathing Monitoring Using IMU with Python Programming Language
+Breathing Monitoring Using IMU(MPU-6050) with Arduino 
