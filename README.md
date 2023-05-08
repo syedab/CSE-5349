@@ -11,6 +11,6 @@ Instructions To Run:
 •	Open Arduino IDE, load sketch, connect microcontroller, select board and port, and click "Upload."
 4.	Run Jupyter Notebook for data analysis and visualization:
 Launch Jupyter Notebook by typing jupyter notebook in the command prompt or terminal and open the provided .ipynb file.
-Modify the notebook to read the dataset.
+Modify the notebook to read the 'breathing_data.txt' dataset.
 5.	Observe the output:
 •	Python script generates plots and statistics for data analysis and visualization.
